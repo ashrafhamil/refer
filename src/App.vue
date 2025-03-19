@@ -7,6 +7,3 @@
 <script setup lang="ts">
 import ReferralLists from "./components/ReferralLists.vue";
 </script>
-
-
-

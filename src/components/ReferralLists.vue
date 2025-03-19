@@ -1,6 +1,6 @@
 <template>
     <div class="container py-5">
-        <h2 class="text-center mb-4">Yap Referral Codes</h2>
+        <h2 class="text-center mb-4 fw-bold">Yap Referral Codes</h2>
 
         <!-- Bootstrap Alert -->
         <div v-if="showAlert" class="alert alert-success alert-dismissible fade show" role="alert">
@@ -27,6 +27,7 @@
                     </div>
                 </div>
             </div>
+            <p class="text-start fade-in" style="animation-delay: 3s;">kalo takmau, kabo...</p>
         </div>
     </div>
 </template>
